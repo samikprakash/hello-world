@@ -1,2 +1,3 @@
 # hello-world
-My first github project and starting to learn how to use it
+hi friends
+my name is samik and i'm a student from india specifically new delhi
